@@ -4,7 +4,7 @@
 Este proyecto de ciencia de datos tiene como objetivo analizar datos relacionados con la pandemia de COVID-19 en México. Se realiza un análisis exploratorio de los datos y se desarrolla un modelo de predicción para comprender y prever tendencias.
 
 ## Contenido del Repositorio
-- **notebooks:** Este directorio contiene el cuaderno de Google Colab utilizado para el análisis y la predicción.
+- **ProyectoFinalGit** Este archivo contiene el cuaderno de Google Colab utilizado para el análisis y la predicción.
 - **data:** Aquí se almacenan los conjuntos de datos utilizados en el proyecto, ademas del diccionario de datos referente a la informacion.
 
 ## Configuración del Entorno
