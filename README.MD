@@ -24,5 +24,5 @@ Este proyecto de ciencia de datos tiene como objetivo analizar datos relacionado
 2. Sigue las instrucciones para instalar las dependencias.
 3. Ejecuta las celdas de código en orden.
 
-## Resultados y Conclusiones
-- Se resumen los hallazgos del análisis y se presentan las conclusiones del modelo de predicción.
+## Interfaz interactiva en tiempo real
+https://2b53bf872a8bc89f10.gradio.live/
